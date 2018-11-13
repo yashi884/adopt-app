@@ -1,1 +1,2 @@
 # adopt-app
+for administrator
